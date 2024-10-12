@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, politics, and social justice.
 - 🌱 I’m currently learning python and public speaking.
 - 💞️ I’m looking to collaborate on DevRel.
-- 📫 How to reach me? Easy, Twitter as @wesley83.
+- 📫 How to reach me? Easy, Mastodon as @wesley83.
 
 <!---
 wesley83/wesley83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
